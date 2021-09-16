@@ -1,0 +1,32 @@
+body {
+   background-color : #ccccff;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  font-family: Comic Sans MS;
+}
+
+.lol {
+  display: flex;
+  justify-content: center;
+}
+
+.choice {
+  max-width: 500px;
+  margin: auto;
+}
+
+a {
+    font-family: OCR A Std, monospace;
+    color: black;
+}
+
+a:hover {
+  color: red
+}
+
+.comic {
+  font-family: Comic Sans MS;
+}
