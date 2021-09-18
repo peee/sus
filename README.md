@@ -1,2 +1,2 @@
-# sus is a very important website
-# that is all.
+sus is a very important website
+that is all.
