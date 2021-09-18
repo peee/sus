@@ -2,20 +2,17 @@ body {
    background-color : #ccccff;
 }
 
-.content {
-  max-width: 500px;
-  margin: auto;
-  font-family: Comic Sans MS;
-}
-
 .lol {
   display: flex;
   justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
 
-.choice {
-  max-width: 500px;
-  margin: auto;
+.text {
+  width: 500px;
+  max-width: 100%;
+  font-family: Comic Sans MS;
 }
 
 a {
