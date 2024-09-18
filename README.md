@@ -1,3 +1,1 @@
-sus is a very important website
-
-that is all.
+very important research on amogi
